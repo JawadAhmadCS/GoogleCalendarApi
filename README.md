@@ -46,6 +46,6 @@ You can learn more in the [Link](https://youtu.be/tgcCl52EN84Jawad).
 ```code
 const supabase = createClient(
   "https://vlvmswlvv.supabase.co",
-  "ey..see whatsapp lock.."
+  "ey..see lock.."
 );
 ```
