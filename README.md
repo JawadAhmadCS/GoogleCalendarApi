@@ -49,3 +49,5 @@ const supabase = createClient(
   "ey..see lock.."
 );
 ```
+
+https://github.com/user-attachments/assets/e190bb4f-0eaf-430d-a2b3-d94427aaf55a
